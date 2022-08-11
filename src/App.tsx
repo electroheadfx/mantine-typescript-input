@@ -1,5 +1,5 @@
 
-import DrawerWidget, { Drawer, DynamicDrawer } from './components/typescript/Drawer';
+import DrawerWidget, { DynamicDrawer } from './components/typescript/Drawer';
 import { Container, Center } from '@mantine/core';
 import reactLogo from './assets/react.svg'
 
